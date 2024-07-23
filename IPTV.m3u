@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-id="udayahd.in" group-title="Kannada" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Udaya_HD.png",Udaya TV HD
 http://starshare.live:8080/live/Mubarak2024/Mu12312356@/98889.ts
 #EXTINF:-1 tvg-id="udayacomedy.in" group-title="Kannada" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Udaya_Comedy.png",Udaya Comedy
@@ -66,8 +65,6 @@ http://dream8k.pro:80/gowtham/gowtham@123/663727
 http://dream8k.pro:80/gowtham/gowtham@123/663716
 #EXTINF:-1 tvg-id="btvi.in" group-title="Kannada" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/BTV.png",BTV
 http://dream8k.pro:80/gowtham/gowtham@123/21225
-
-
 #EXTINF:-1 tvg-id="starsports1hd.in" group-title="Sports" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png",Star Sports 1 HD
 http://starshare.live:8080/live/Mubarak2024/Mu12312356@/98864.ts
 #EXTINF:-1 tvg-id="starsports2hd.in" group-title="Sports" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png",Star Sports 2 HD
@@ -104,8 +101,6 @@ http://starshare.live:8080/live/Mubarak2024/Mu12312356@/146.ts
 http://starshare.live:8080/live/Mubarak2024/Mu12312356@/29469.ts
 #EXTINF:-1 tvg-id="sonysixhd.in" group-title="Sports" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sony-six-hd-large.jpg",Sony Sports Ten 5 HD
 http://starshare.live:8080/live/Mubarak2024/Mu12312356@/176.ts
-
-
 #EXTINF:-1 tvg-id="FoodFood" group-title="Knowledge & Lifestyle" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Food_Food.png",Food Food
 http://starshare.live:8080/live/Mubarak2024/Mu12312356@/9975.ts
 #EXTINF:-1 tvg-id="DiscoveryScience" group-title="Knowledge & Lifestyle" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Science.png",Discovery Science
