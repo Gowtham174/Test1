@@ -5,8 +5,6 @@ http://starshare.live:8080/live/John123/John123/98889.ts
 http://starshare.live:8080/live/John123/John123/98901.ts
 #EXTINF:-1 tvg-id="zeekannadahd.in" group-title="KANNADA" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png",ZEE-KANNADA 4K
 http://starshare.live:8080/live/John123/John123/98890.ts
-#EXTINF:-1 tvg-id="colorskannadahd.in" group-title="KANNADA" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png",COLORS_KANNADA (4K)
-http://starshare.live:8080/live/John123/John123/98907.ts
 #EXTINF:-1 tvg-id="colorskannadahd.in" group-title="KANNADA" tvg-logo="",Colors Kannada HD
 http://starshare.live:8080/live/John123/John123/162.ts
 #EXTINF:-1 tvg-id="colorssuper.in" group-title="KANNADA" tvg-logo="",Colors Super
