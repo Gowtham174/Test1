@@ -63,5 +63,5 @@ http://starshare.live:8080/live/John123/John123/128232.ts
 http://starshare.live:8080/live/John123/John123/137085.ts
 #EXTINF:-1 tvg-id="SuvarnaPlus" group-title="KANNADA" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Suvarna_Plus.png",Suvarna Plus
 http://starshare.live:8080/live/John123/John123/150701.ts
-#EXTINF:-1 tvg-id="RepublicNewsKannada" group-title="KANNADA" tvg-logo="https://raw.githubusercontent.com/Gowtham174/Test1/main/Images/RepublicKannadalogo.png",Republic News Kannada
+#EXTINF:-1 tvg-id="RepublicNewsKannada" group-title="KANNADA" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Republic_TV.png",Republic News Kannada
 http://starshare.live:8080/live/John123/John123/252457.ts
