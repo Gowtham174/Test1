@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="udayahd.in" group-title="KANNADA" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Udaya_HD.png",UDAYA TV 4K
 http://starshare.live:8080/live/John123/John123/98889.ts
-#EXTINF:-1 tvg-id="starsuvarnahd.in" group-title="KANNADA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/Star_Suvarna_HD.jpg/revision/latest/scale-to-width-down/200?cb=20180531132211",STAR-SUVARNA 4K
+#EXTINF:-1 tvg-id="starsuvarnahd.in" group-title="KANNADA" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Suvarna.png",STAR-SUVARNA 4K
 http://starshare.live:8080/live/John123/John123/98901.ts
 #EXTINF:-1 tvg-id="zeekannadahd.in" group-title="KANNADA" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Kannada_HD.png",ZEE-KANNADA 4K
 http://starshare.live:8080/live/John123/John123/98890.ts
