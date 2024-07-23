@@ -1,19 +1,27 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="starsports1hd.in" group-title="INDIA SPORTS" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png",STAR SPORTS 1 HD
+#EXTINF:-1 tvg-id="starsports1hd.in" group-title="Sports" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png",STAR SPORTS 1 HD
 http://starshare.live:8080/live/Mubarak2024/Mu12312356@/98864.ts
-#EXTINF:-1 tvg-id="starsports2hd.in" group-title="INDIA SPORTS" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png",STAR SPORTS 2 HD
+#EXTINF:-1 tvg-id="starsports2hd.in" group-title="Sports" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png",Star Sports 2 HD
 http://starshare.live:8080/live/Mubarak2024/Mu12312356@/98865.ts
-#EXTINF:-1 tvg-id="starsports3.in" group-title="INDIA SPORTS" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2a/StarSports3India.jpg/revision/latest/scale-to-width-down/340?cb=20191214234112",STAR SPORTS 3
+#EXTINF:-1 tvg-id="starsports3.in" group-title="Sports" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2a/StarSports3India.jpg/revision/latest/scale-to-width-down/340?cb=20191214234112",Star Sports 3
 http://starshare.live:8080/live/Mubarak2024/Mu12312356@/1080.ts
-#EXTINF:-1 tvg-id="starsports1hdhindi.in" group-title="INDIA SPORTS" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png",STAR SPORTS 1 HINDI HD
+#EXTINF:-1 tvg-id="starsports1hdhindi.in" group-title="Sports" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png",STAR SPORTS 1 HINDI HD
 http://starshare.live:8080/live/Mubarak2024/Mu12312356@/98866.ts
-#EXTINF:-1 tvg-id="starsportsselect1hd.in" group-title="INDIA SPORTS" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png",STAR SPORTS SELECT 1 HD
+#EXTINF:-1 tvg-id="starsportsselect1hd.in" group-title="Sports" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png",STAR SPORTS SELECT 1 HD
 http://starshare.live:8080/live/Mubarak2024/Mu12312356@/98867.ts
-#EXTINF:-1 tvg-id="starsportsselecthd2.in" group-title="INDIA SPORTS" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png",START SPORTS SELECT 2 HD
+#EXTINF:-1 tvg-id="starsportsselecthd2.in" group-title="Sports" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png",Star Sports Select 2 HD
 http://starshare.live:8080/live/Mubarak2024/Mu12312356@/98868.ts
-#EXTINF:-1 tvg-id="starsports1tamil.in" group-title="INDIA SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Star_Sports_Tamil.png/revision/latest/scale-to-width-down/340?cb=20170728072716",STAR SPORTS TAMIL 1 HD
+#EXTINF:-1 tvg-id="starsports1tamil.in" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Star_Sports_Tamil.png/revision/latest/scale-to-width-down/340?cb=20170728072716",STAR SPORTS TAMIL 1 HD
 http://starshare.live:8080/live/Mubarak2024/Mu12312356@/9722.ts
-#EXTINF:-1 tvg-id="starsports1telugu" group-title="INDIA SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/74/Star_Sports_1_Telugu_HD.png/revision/latest/scale-to-width-down/250?cb=20211017160105",STAR SPORTS TELUGU 1 HD
+#EXTINF:-1 tvg-id="starsports1telugu" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/74/Star_Sports_1_Telugu_HD.png/revision/latest/scale-to-width-down/250?cb=20211017160105",STAR SPORTS TELUGU 1 HD
 http://starshare.live:8080/live/Mubarak2024/Mu12312356@/177843.ts
-#EXTINF:-1 tvg-id="starsports1kannada.in" group-title="INDIA SPORTS" tvg-logo="http://b1g.fun/logos2/star_sports1kannda.jpg",STAR SPORTS 1 KANNADA
+#EXTINF:-1 tvg-id="starsports1kannada.in" group-title="Sports" tvg-logo="http://b1g.fun/logos2/star_sports1kannda.jpg",STAR SPORTS 1 KANNADA
 http://dream8k.pro:80/gowtham/gowtham@123/14103
+#EXTINF:-1 tvg-id="ddsports.in" tgroup-title="Sports" tvg-logo="http://b1g.fun/logos2/dd_sports.jpg",DD Sports HD
+http://dream8k.pro:80/gowtham/gowtham@123/20948
+#EXTINF:-1 tvg-id="SPORTS18" tgroup-title="Sports" tvg-logo="http://b1g.fun/logos2/sports18_khel.jpg",Sports18 1
+http://dream8k.pro:80/gowtham/gowtham@123/417606
+#EXTINF:-1 tvg-id="SPORTS18" tgroup-title="Sports" tvg-logo="http://b1g.fun/logos2/sports18.jpg",Sports18 2
+http://dream8k.pro:80/gowtham/gowtham@123/415465
+#EXTINF:-1 tvg-id="eurosport.in" tgroup-title="Sports" tvg-logo="http://b1g.fun/logos2/eurosport_hd.jpg",Eurosport HD
+http://dream8k.pro:80/gowtham/gowtham@123/161867
