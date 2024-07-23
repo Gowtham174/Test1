@@ -39,7 +39,7 @@ http://starshare.live:8080/live/John123/John123/9449.ts
 http://starshare.live:8080/live/John123/John123/9450.ts
 #EXTINF:-1 tvg-id="udayahd.in" group-title="KANNADA" tvg-logo="",UDAYA TV 
 http://starshare.live:8080/live/John123/John123/9451.ts
-#EXTINF:-1 tvg-id="zeepicchar.in" group-title="KANNADA" tvg-logo="",Zee Picchar
+#EXTINF:-1 tvg-id="zeepicchar.in" group-title="KANNADA" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Picchar_HD.png",Zee Picchar
 http://starshare.live:8080/live/John123/John123/9452.ts
 #EXTINF:-1 tvg-id="zeekannadahd.in" group-title="KANNADA" tvg-logo="",Zee Kannada HD
 http://starshare.live:8080/live/John123/John123/9453.ts
