@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="85" group-title="Kannada", tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9824-j85wb88o-v1/imageContent-9824-j85wb88o-m1.png", News18 Kannada
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"cQhmKh11o8GIU5IL6frYVQ","kid":"/PeI+aJiVy6zrisZqbmz2w"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTHTTP:{"cookie":"hdnea=exp=1721760042~acl=/*~hmac=4605780855950e57f586e8be75672926808e81181f7645e16e2982922f9ac6c8"}
+https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_229/output/manifest.mpd|cookie:hdnea=exp=1721760042~acl=/*~hmac=4605780855950e57f586e8be75672926808e81181f7645e16e2982922f9ac6c8
