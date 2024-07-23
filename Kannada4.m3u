@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="udayahd.in" group-title="KANNADA" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Udaya_HD.png",UDAYA TV 4K
 http://starshare.live:8080/live/John123/John123/98889.ts
-#EXTINF:-1 tvg-id="starsuvarnahd.in" group-title="KANNADA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/Star_Suvarna_HD.jpg/revision/latest/scale-to-width-down/340?cb=20180531132211",STAR-SUVARNA 4K
+#EXTINF:-1 tvg-id="starsuvarnahd.in" group-title="KANNADA" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Suvarna.png",STAR-SUVARNA 4K
 http://starshare.live:8080/live/John123/John123/98901.ts
 #EXTINF:-1 tvg-id="zeekannadahd.in" group-title="KANNADA" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Kannada_HD.png",ZEE-KANNADA 4K
 http://starshare.live:8080/live/John123/John123/98890.ts
@@ -43,7 +43,7 @@ http://starshare.live:8080/live/John123/John123/9451.ts
 http://starshare.live:8080/live/John123/John123/9452.ts
 #EXTINF:-1 tvg-id="zeekannadahd.in" group-title="KANNADA" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Kannada_HD.png",Zee Kannada HD
 http://starshare.live:8080/live/John123/John123/9453.ts
-#EXTINF:-1 tvg-id="starsuvarnahd.in" group-title="KANNADA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/Star_Suvarna_HD.jpg/revision/latest/scale-to-width-down/340?cb=20180531132211",STAR SUVARNA
+#EXTINF:-1 tvg-id="starsuvarnahd.in" group-title="KANNADA" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Suvarna.png",STAR SUVARNA
 http://starshare.live:8080/live/John123/John123/23322.ts
 #EXTINF:-1 tvg-id="colorskannadahd.in" group-title="KANNADA" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_HD.png",COLORS KANNADA
 http://starshare.live:8080/live/John123/John123/23323.ts
@@ -55,11 +55,11 @@ http://starshare.live:8080/live/John123/John123/24125.ts
 http://starshare.live:8080/live/John123/John123/56037.ts
 #EXTINF:-1 tvg-id="publicmusic.in" group-title="KANNADA" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Public_Music.png",Public Music
 http://starshare.live:8080/live/John123/John123/128230.ts
-#EXTINF:-1 tvg-id="udayamusic.in" group-title="KANNADA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Udaya-Music-Logo.jpg/240px-Udaya-Music-Logo.jpg",Udaya Music
+#EXTINF:-1 tvg-id="udayamusic.in" group-title="KANNADA" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Udaya_Music.png",Udaya Music
 http://starshare.live:8080/live/John123/John123/128231.ts
 #EXTINF:-1 tvg-id="rajmusixkannada.in" group-title="KANNADA" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Music_Kannada.png",Raj Music Kannada
 http://starshare.live:8080/live/John123/John123/128232.ts
-#EXTINF:-1 tvg-id="DaijiworldTV" group-title="KANNADA" tvg-logo="https://e.top4top.io/p_2564zy92e1.jpg",Daijiworld TV
+#EXTINF:-1 tvg-id="DaijiworldTV" group-title="KANNADA" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Daijiworld_TV_24X7.png",Daijiworld TV
 http://starshare.live:8080/live/John123/John123/137085.ts
 #EXTINF:-1 tvg-id="SuvarnaPlus" group-title="KANNADA" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Suvarna_Plus.png",Suvarna Plus
 http://starshare.live:8080/live/John123/John123/150701.ts
