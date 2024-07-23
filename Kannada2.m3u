@@ -1,5 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="udayahd.in" group-title="KANNADA" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png",UDAYA TV
-http://starshare.live:8080/live/John123/John123/98889.ts
-#EXTINF:-1 tvg-id="rajmusixkannada.in" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Music_Kannada.png" group-title="KANNADA",Raj Music Kannada
-http://starshare.live:8080/live/John123/John123/128232.ts
