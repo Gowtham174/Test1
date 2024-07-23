@@ -1,0 +1,71 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="IN: STAR SPORTS 1 (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="INDIA SPORTS",IN: STAR SPORTS 1 (4K).
+http://starshare.live:8080/live/John123/John123/98864.ts
+#EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="IN: STAR SPORTS 2 (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="INDIA SPORTS",IN: STAR SPORTS 2 (4K).
+http://starshare.live:8080/live/John123/John123/98865.ts
+#EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="IN: STAR SPORTS 1 HINDI (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="INDIA SPORTS",IN: STAR SPORTS 1 HINDI (4K).
+http://starshare.live:8080/live/John123/John123/98866.ts
+#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="IN: STAR SPORTS SELECT 1 (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="INDIA SPORTS",IN: STAR SPORTS SELECT 1 (4K).
+http://starshare.live:8080/live/John123/John123/98867.ts
+#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="IN: START SPORTS SELECT 2 (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="INDIA SPORTS",IN: START SPORTS SELECT 2 (4K).
+http://starshare.live:8080/live/John123/John123/98868.ts
+#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="IN: TEN 1 (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="INDIA SPORTS",IN: TEN 1 (4K).
+http://starshare.live:8080/live/John123/John123/98861.ts
+#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="IN: TEN 2 (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="INDIA SPORTS",IN: TEN 2 (4K).
+http://starshare.live:8080/live/John123/John123/98862.ts
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="IN: TEN 3 (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="INDIA SPORTS",IN: TEN 3 (4K).
+http://starshare.live:8080/live/John123/John123/98863.ts
+#EXTINF:-1 tvg-id="sonysixhd.in" tvg-name="IN: SONY TEN 5 (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="INDIA SPORTS",IN: SONY TEN 5 (4K).
+http://starshare.live:8080/live/John123/John123/98870.ts
+#EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="CRI: STAR SPORT 1 HD" tvg-logo="https://toppng.com/uploads/preview/star-sports-hd1-star-sports-2-11563260393mf9fciusph.png" group-title="CRICKET",CRI: STAR SPORT 1 HD
+http://starshare.live:8080/live/John123/John123/148.ts
+#EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="CRI: Star Sport-1  (FHD)" tvg-logo="https://toppng.com/uploads/preview/star-sports-hd1-star-sports-2-11563260393mf9fciusph.png" group-title="CRICKET",CRI: Star Sport-1  (FHD)
+http://starshare.live:8080/live/John123/John123/9397.ts
+#EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="CRI: STAR SPORTS 1 (4K)" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="CRICKET",CRI: STAR SPORTS 1 (4K)
+http://starshare.live:8080/live/John123/John123/124281.ts
+#EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="CRI: STAR SPORTS 2 HD" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" group-title="CRICKET",CRI: STAR SPORTS 2 HD
+http://starshare.live:8080/live/John123/John123/239.ts
+#EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="CRI: Star Sport-2  (FHD)" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" group-title="CRICKET",CRI: Star Sport-2  (FHD)
+http://starshare.live:8080/live/John123/John123/9398.ts
+#EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="CRI: STAR SPORTS 2 (4K)" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="CRICKET",CRI: STAR SPORTS 2 (4K)
+http://starshare.live:8080/live/John123/John123/124284.ts
+#EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="CRI: STAR SPORTS HINDI HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d0/SS1_Hindi_HD.JPG/revision/latest?cb=20171105031607" group-title="CRICKET",CRI: STAR SPORTS HINDI HD
+http://starshare.live:8080/live/John123/John123/211.ts
+#EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="CRI: Star Sport 1 HINDI (FHD)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d0/SS1_Hindi_HD.JPG/revision/latest?cb=20171105031607" group-title="CRICKET",CRI: Star Sport 1 HINDI (FHD)
+http://starshare.live:8080/live/John123/John123/9399.ts
+#EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="CRI: STAR SPORTS 1 HINDI (4K)" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="CRICKET",CRI: STAR SPORTS 1 HINDI (4K)
+http://starshare.live:8080/live/John123/John123/124287.ts
+#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="CRI: STAR SPORTS SELECT 1 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b5/Star_Sports_Select_1_HD.jpg/revision/latest/scale-to-width-down/340?cb=20180806112709" group-title="CRICKET",CRI: STAR SPORTS SELECT 1 HD
+http://starshare.live:8080/live/John123/John123/238.ts
+#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="CRI: STAR SPORTS SELECT 2 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/46/Sss-hd2-bronze.png/revision/latest/top-crop/width/220/height/220?cb=20170728104956" group-title="CRICKET",CRI: STAR SPORTS SELECT 2 HD
+http://starshare.live:8080/live/John123/John123/148801.ts
+#EXTINF:-1 tvg-id="starsports1tamil.in" tvg-name="CRI: STAR SPORTS TAMIL 1 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Star_Sports_Tamil.png/revision/latest/scale-to-width-down/340?cb=20170728072716" group-title="CRICKET",CRI: STAR SPORTS TAMIL 1 HD
+http://starshare.live:8080/live/John123/John123/9722.ts
+#EXTINF:-1 tvg-id="" tvg-name="CRI: STAR SPORTS TELUGU 1 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/74/Star_Sports_1_Telugu_HD.png/revision/latest/scale-to-width-down/250?cb=20211017160105" group-title="CRICKET",CRI: STAR SPORTS TELUGU 1 HD
+http://starshare.live:8080/live/John123/John123/177843.ts
+#EXTINF:-1 tvg-id="starsports3.in" tvg-name="CRI: STAR SPORTS 3" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2a/StarSports3India.jpg/revision/latest/scale-to-width-down/340?cb=20191214234112" group-title="CRICKET",CRI: STAR SPORTS 3
+http://starshare.live:8080/live/John123/John123/1080.ts
+#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="CRI: SONY TEN 1 HD" tvg-logo="https://i.ytimg.com/vi/QOx79orcb1I/maxresdefault.jpg" group-title="CRICKET",CRI: SONY TEN 1 HD
+http://starshare.live:8080/live/John123/John123/154.ts
+#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="CRI: SONY Ten 2 HD" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sony-ten2-hd.png" group-title="Football (Soccer)",CRI: SONY Ten 2 HD
+http://starshare.live:8080/live/John123/John123/192.ts
+#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="CRI: SONY Ten 2 HD." tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sony-ten2-hd.png" group-title="CRICKET",CRI: SONY Ten 2 HD.
+http://starshare.live:8080/live/John123/John123/31314.ts
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="CRI: SONY TEN 3 HD" tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/569ccce68ead0e21236eb474/1565808608783/c9347b41649e4f9d39f547b0d9ffd902.jpg" group-title="CRICKET",CRI: SONY TEN 3 HD
+http://starshare.live:8080/live/John123/John123/146.ts
+#EXTINF:-1 tvg-id="" tvg-name="CRI: SONY TEN 4 (4K)" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="CRICKET",CRI: SONY TEN 4 (4K)
+http://starshare.live:8080/live/John123/John123/29469.ts
+#EXTINF:-1 tvg-id="sonysixhd.in" tvg-name="CRI: SONY 5 HD" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sony-six-hd-large.jpg" group-title="CRICKET",CRI: SONY 5 HD
+http://starshare.live:8080/live/John123/John123/176.ts
+#EXTINF:-1 tvg-id="sonyespnhd.in" tvg-name="CRI: SONY ESPN HD" tvg-logo="https://pluspng.com/img-png/sony-hd-png-http-www-indigital-co-in-upload-channellogo-channellogo-635901932420648964-png-sony-espn-hd-300.png" group-title="CRICKET",CRI: SONY ESPN HD
+http://starshare.live:8080/live/John123/John123/155.ts
+#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="IN: Star Sports Select 1 (FHD)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b5/Star_Sports_Select_1_HD.jpg/revision/latest/scale-to-width-down/340?cb=20180806112709" group-title="INDIA SPORTS",IN: Star Sports Select 1 (FHD)
+http://starshare.live:8080/live/John123/John123/9400.ts
+#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="IN: Star Sports Select 2 (FHD)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/46/Sss-hd2-bronze.png/revision/latest/top-crop/width/220/height/220?cb=20170728104956" group-title="INDIA SPORTS",IN: Star Sports Select 2 (FHD)
+http://starshare.live:8080/live/John123/John123/9401.ts
+#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="IN: Sony Ten 1 (FHD)" tvg-logo="https://i.ytimg.com/vi/QOx79orcb1I/maxresdefault.jpg" group-title="INDIA SPORTS",IN: Sony Ten 1 (FHD)
+http://starshare.live:8080/live/John123/John123/9402.ts
+#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="IN: Sony Ten 2 (4K)" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sony-ten2-hd.png" group-title="INDIA SPORTS",IN: Sony Ten 2 (4K)
+http://starshare.live:8080/live/John123/John123/9403.ts
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="IN: Sony Ten 3 (FHD)" tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/569ccce68ead0e21236eb474/1565808608783/c9347b41649e4f9d39f547b0d9ffd902.jpg" group-title="INDIA SPORTS",IN: Sony Ten 3 (FHD)
+http://starshare.live:8080/live/John123/John123/9404.ts
