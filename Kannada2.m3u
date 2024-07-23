@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="udayahd.in" tvg-name="UDAYA TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Music_Kannada.png" group-title="KANNADA",Kannada: UDAYA (4K)
+http://starshare.live:8080/live/John123/John123/98889.ts
+#EXTINF:-1 tvg-id="rajmusixkannada.in" tvg-name="Raj Music Kannada" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Music_Kannada.png" group-title="KANNADA",Kannada: Raj Music Kannada
+http://starshare.live:8080/live/John123/John123/128232.ts
