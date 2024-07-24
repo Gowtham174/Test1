@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="9xjalwa.in" group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Jalwa.png",9X Jalwa
+http://starshare.live:8080/live/Mubarak2024/Mu12312356@/9057.ts
+#EXTINF:-1 tvg-id="b4umusic.in" group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png",B4U Music
+http://starshare.live:8080/live/Mubarak2024/Mu12312356@/7258.ts
+#EXTINF:-1 tvg-id="e24.in" group-title="Music" tvg-logo="http://b1g.fun/logos2/e24.jpg",E24
+http://dream8k.pro:80/gowtham/gowtham@123/20842
+#EXTINF:-1 tvg-id="mtvbeatshd.in" group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png",MTV Beats HD
+http://dream8k.pro:80/gowtham/gowtham@123/20980
+#EXTINF:-1 tvg-id="mastiii.in" group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mastiii.png",Mastiii
+http://dream8k.pro:80/gowtham/gowtham@123/8532
+#EXTINF:-1 tvg-id="9xm.in" group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9XM.png",9XM
+http://dream8k.pro:80/gowtham/gowtham@123/417597
+#EXTINF:-1 tvg-id="VH1CLEU" group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/VH1_HD.png",VH1 HD
+http://starshare.live:8080/live/Mubarak2024/Mu12312356@/98907.ts
+#EXTINF:-1 tvg-id="showbox.in" group-title="Music" tvg-logo="http://b1g.fun/logos2/showbox.jpg",Showbox
+http://dream8k.pro:80/gowtham/gowtham@123/7998
+#EXTINF:-1 tvg-id="Zing" group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zing.png",Zing
+http://starshare.live:8080/live/Mubarak2024/Mu12312356@/970.ts
+#EXTINF:-1 tvg-id="zoom.in" group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zoom.png",Zoom
+http://dream8k.pro:80/gowtham/gowtham@123/20837
+#EXTINF:-1 tvg-id="musicindia.in" group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Music_India.png",Music India
+http://dream8k.pro:80/gowtham/gowtham@123/20841
+#EXTINF:-1 tvg-id="mtvhdplus.in" group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png",MTV HD+
+http://dream8k.pro:80/gowtham/gowtham@123/235951
