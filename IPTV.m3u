@@ -8,7 +8,7 @@ http://starshare.live:8080/live/Mubarak2024/Mu12312356@/9448.ts
 #EXTINF:-1 tvg-id="udayamusic.in" group-title="Kannada" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Udaya_Music.png",Udaya Music
 http://starshare.live:8080/live/Mubarak2024/Mu12312356@/128231.ts
 #EXTINF:-1 tvg-id="chintutv.in" group-title="Kannada" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Chintu.png",Chintu TV
-http://dream8k.pro:80/gowtham/gowtham@123/192752
+http://starshare.live:8080/live/Mubarak2024/Mu12312356@/355546.ts
 #EXTINF:-1 tvg-id="starsuvarnahd.in" group-title="Kannada" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Suvarna.png",Star Suvarna HD
 http://starshare.live:8080/live/Mubarak2024/Mu12312356@/98901.ts
 #EXTINF:-1 tvg-id="SuvarnaPlus" group-title="Kannada" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Suvarna_Plus.png",Star Suvarna Plus
@@ -18,7 +18,7 @@ http://starshare.live:8080/live/Mubarak2024/Mu12312356@/236.ts
 #EXTINF:-1 tvg-id="zeekannadahd.in" group-title="Kannada" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Kannada_HD.png",Zee Kannada HD
 http://starshare.live:8080/live/Mubarak2024/Mu12312356@/98890.ts
 #EXTINF:-1 tvg-id="zeepicchar.in" group-title="Kannada" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Picchar_HD.png",Zee Picchar HD
-http://dream8k.pro:80/gowtham/gowtham@123/163740
+http://starshare.live:8080/live/Mubarak2024/Mu12312356@/9452.ts
 #EXTINF:-1 tvg-id="colorskannadahd.in" group-title="Kannada" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_HD.png",Colors Kannada HD
 http://dream8k.pro:80/gowtham/gowtham@123/161846
 #EXTINF:-1 tvg-id="colorskannadahd.in" group-title="Kannada" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada.png",Colors Kannada
@@ -47,8 +47,6 @@ http://dream8k.pro:80/gowtham/gowtham@123/663730
 http://starshare.live:8080/live/Mubarak2024/Mu12312356@/252457.ts
 #EXTINF:-1 tvg-id="ayushtv.in" group-title="Kannada" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ayush_TV.png",Ayush TV
 http://starshare.live:8080/live/Mubarak2024/Mu12312356@/9439.ts
-#EXTINF:-1 tvg-id="kasthuri.in" group-title="Kannada" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Kasthuri.png",Kasthuri TV
-http://dream8k.pro:80/gowtham/gowtham@123/21229
 #EXTINF:-1 tvg-id="SAMARA" group-title="Kannada" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Samara-News-1.png",Samaya News Kannada
 http://dream8k.pro:80/gowtham/gowtham@123/663729
 #EXTINF:-1 tvg-id="NAMMA" group-title="Kannada" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Namma-TV.png",NamMa TV
@@ -69,6 +67,8 @@ http://dream8k.pro:80/gowtham/gowtham@123/663726
 http://dream8k.pro:80/gowtham/gowtham@123/663727
 #EXTINF:-1 tvg-id="NAKSHATRA" group-title="Kannada" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nakshatra_Digital_TV.png",Nakshatra_Digital_TV
 http://dream8k.pro:80/gowtham/gowtham@123/663716
+#EXTINF:-1 tvg-id="kasthuri.in" group-title="Kannada" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Kasthuri.png",Kasthuri TV
+http://dream8k.pro:80/gowtham/gowtham@123/21229
 #EXTINF:-1 tvg-id="btvi.in" group-title="Kannada" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/BTV.png",BTV
 http://dream8k.pro:80/gowtham/gowtham@123/21225
 #EXTINF:-1 tvg-id="PrajaaTV" group-title="Kannada" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Prajaa_TV.png",Prajaa TV
