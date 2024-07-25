@@ -1,3 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" group-title="Test" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png",Test
-https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_317/output/dash/TV9_Kannada-video=1297600-215237233.m4s
+#EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="Star Sports" group-title="Sports" tvg-logo="https://toppng.com/uploads/preview/star-sports-hd1-star-sports-2-11563260393mf9fciusph.png",Star Sports 1 HD
+http://starshare.live:8080/live/Mubarak2024/Mu12312356@/98864.ts
+#EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="Star Sports" group-title="Sports" tvg-logo="https://toppng.com/uploads/preview/star-sports-hd1-star-sports-2-11563260393mf9fciusph.png",Star Sports 2 HD
+http://starshare.live:8080/live/Mubarak2024/Mu12312356@/98865.ts
+#EXTINF:-1 tvg-id="starsports3.in" tvg-name="Star Sports" group-title="Sports" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2a/StarSports3India.jpg/revision/latest/scale-to-width-down/340?cb=20191214234112",Star Sports 3
+http://starshare.live:8080/live/Mubarak2024/Mu12312356@/1080.ts
+#EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="Star Sports" group-title="Sports" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d0/SS1_Hindi_HD.JPG/revision/latest?cb=20171105031607",Star Sports 1 Hindi HD
+http://starshare.live:8080/live/Mubarak2024/Mu12312356@/98866.ts
+#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="Star Sports" group-title="Sports" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b5/Star_Sports_Select_1_HD.jpg/revision/latest/scale-to-width-down/340?cb=20180806112709",Star Sports Select 1 HD
+http://starshare.live:8080/live/Mubarak2024/Mu12312356@/98867.ts
+#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="Star Sports" group-title="Sports" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/46/Sss-hd2-bronze.png/revision/latest/top-crop/width/220/height/220?cb=20170728104956",Star Sports Select 2 HD
+http://starshare.live:8080/live/Mubarak2024/Mu12312356@/98868.ts
+#EXTINF:-1 tvg-id="starsports1tamil.in" tvg-name="Star Sports" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Star_Sports_Tamil.png/revision/latest/scale-to-width-down/340?cb=20170728072716",Star Sports 1 Tamil HD
+http://starshare.live:8080/live/Mubarak2024/Mu12312356@/9722.ts
+#EXTINF:-1 tvg-id="starsports1telugu" tvg-name="Star Sports" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/74/Star_Sports_1_Telugu_HD.png/revision/latest/scale-to-width-down/250?cb=20211017160105",Star Sports 1 Telugu HD
+http://starshare.live:8080/live/Mubarak2024/Mu12312356@/177843.ts
+#EXTINF:-1 tvg-id="starsports1kannada.in" tvg-name="Star Sports" group-title="Sports" tvg-logo="http://b1g.fun/logos2/star_sports1kannda.jpg",Star Sports 1 Kannada
+http://dream8k.pro:80/gowtham/gowtham@123/14103
