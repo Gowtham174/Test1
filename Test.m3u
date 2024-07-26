@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="glotv" tvg-logo="http://4k.spicetv.cc/stalker_portal/misc/logos/320/" group-title="SPORTS | CRICKET",sakkat
+#EXTINF:-1 tvg-id="glotv" tvg-logo="http://4k.spicetv.cc/stalker_portal/misc/logos/320/" group-title="Music",sakkat1
 https://fifaxbd.fun/JIOX9/WEB2/play.php?c=Sakkat&id=1245
+#EXTINF:-1 tvg-id="1245" tvg_language="Kannada" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sakkat.png" group-title="Music",Sakkat
+https://jio.drmlive.au/jio/bpk-tv/Sakkat_MOB/Fallback/index.m3u8
